@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+
+h1 {
+    color: black;
+    display: inline-block;
+    width: 90px;
+    background-color: white;
+    margin: 16px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.main{
+    padding: 20px;
+};
+
+#container{
+    background-color: aqua;
+}
+button{
+    background-color: purple;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    margin: 10px;
+    color: #ffff
+    ;
+
+}
+
+
+
+
